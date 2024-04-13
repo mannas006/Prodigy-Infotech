@@ -1,5 +1,3 @@
-## Prodigy Infotech Internship Assigment
-
 # Software Development Track (SD)
 
 ## Overview
