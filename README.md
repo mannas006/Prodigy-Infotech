@@ -1,4 +1,4 @@
-# Software Development Track (SD)
+# Software Development Track
 
 ## Overview
 
